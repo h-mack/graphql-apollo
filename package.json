@@ -1,0 +1,16 @@
+{
+  "name": "graphql-apollo",
+  "version": "1.0.0",
+  "description": "basic implementation of a graphql apollo server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.1",
+    "graphql": "^16.8.1"
+  }
+}
